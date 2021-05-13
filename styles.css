@@ -1,0 +1,29 @@
+td {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    }
+.intro{
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: Red;
+    position: absolute;
+        left: 28%;
+        top: 10%;
+}
+    
+    
+    #circle {
+      width: 30px;
+      height: 30px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: grey;
+      text-align: center;
+    }
+    table{
+        position: absolute;
+        left: 30%;
+        top: 20%;
+    }
